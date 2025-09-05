@@ -1,4 +1,4 @@
-# exercicios.py
+
 
 # exercicios.py
 
